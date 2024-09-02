@@ -6,6 +6,8 @@ This is a repo of some useful tools that could be used for game development:
     - Jolt https://github.com/jrouwe/JoltPhysics
     - Bullet https://github.com/bulletphysics/bullet3
 - Graphics Engine
-- Frameworks
+    - OGRE https://www.ogre3d.org/about/features
+    - SDL https://github.com/libsdl-org/SDL
 - Input Handling
 - Networking
+- Terrain
