@@ -18,4 +18,4 @@ This is a repo of some useful tools that could be used for game development:
     - Gaea https://quadspinner.com/
     - blender https://www.blender.org/
 - Web
-    - Phaser https://www.blender.org/
+    - Phaser https://phaser.io/
