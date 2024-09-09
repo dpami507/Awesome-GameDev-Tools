@@ -62,3 +62,6 @@ This is a repo of some useful tools that could be used for game development:
         - Sound Effect generator with a more 8-Bit feel to it
     - Audacity https://www.audacityteam.org/
         - Allows for audio editing and recording.
+- Animation
+    - Mixamo https://www.mixamo.com/#/
+       - Quickly import character models and have them rigged and animated for you
