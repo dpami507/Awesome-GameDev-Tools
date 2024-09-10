@@ -5,14 +5,11 @@ This is a repo of some useful tools that could be used for game development:
 
 - Game Engines
     - Unity https://unity.com/
-        - Uses C#
-        - Good for making nice-looking games
+        - A popular Game Engine that uses C#, it is good for making all types fo games.
     - Unreal https://www.unrealengine.com/en-US
-        - Uses C++ and visual scripting
-        - Good for high-quality and realistic games
+        - A popular Game Engine that uses C++ and Visual Scripting. This is a good option for hyper realistic games.
     - Godot https://godotengine.org/
-        - Can Use GDScript, C#, C, and C++.
-        - Ideal for 2D and 3D games (Dedicated 2D pipeline)
+        - Ideal for 2D and 3D games (Dedicated 2D pipeline). Uses GDScript, C#, C, and C++.
         
 - Physics Engine
     - Jolt https://github.com/jrouwe/JoltPhysics
