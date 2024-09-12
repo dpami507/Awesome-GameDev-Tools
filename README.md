@@ -5,9 +5,9 @@ This is a repo of some useful tools that could be used for game development:
 
 - Game Engines
     - Unity https://unity.com/
-        - A popular Game Engine that uses C#, it is good for making all types fo games.
+        - A popular Game Engine that uses C#, it is good for making all types of games.
     - Unreal https://www.unrealengine.com/en-US
-        - A popular Game Engine that uses C++ and Visual Scripting. This is a good option for hyper realistic games.
+        - A popular Game Engine that uses C++ and Visual Scripting. This is a good option for hyperrealistic games.
     - Godot https://godotengine.org/
         - Ideal for 2D and 3D games (Dedicated 2D pipeline). Uses GDScript, C#, C, and C++.
         
@@ -45,13 +45,15 @@ This is a repo of some useful tools that could be used for game development:
     - ENet https://github.com/lsalzman/enet
         - Provides a relatively thin, simple, and robust network communication layer on top of UDP (User Datagram Protocol).
         - C++
+    - Mirror https://mirror-networking.com/
+        - Adds Easy networking to Unity.
       
 - Terrain
     - Gaea https://quadspinner.com/
         - Terrain and Surface generation
     - blender https://www.blender.org/
         - 3D modeling software with the tools to create terrain
-      
+
 - Sound
     - FMOD https://www.fmod.com/
         - Sound effects engine for video games
@@ -59,6 +61,11 @@ This is a repo of some useful tools that could be used for game development:
         - Sound Effect generator with a more 8-Bit feel to it
     - Audacity https://www.audacityteam.org/
         - Allows for audio editing and recording.
+          
 - Animation
     - Mixamo https://www.mixamo.com/#/
        - Quickly import character models and have them rigged and animated for you
+         
+- Art
+    - Piskel https://www.piskelapp.com/
+        - Online pixel art creator
