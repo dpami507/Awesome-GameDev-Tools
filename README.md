@@ -1,7 +1,7 @@
 # Awesome-GameDev-Tools
 A bunch of awesome tools for game devs :)
 
-This is a repo of some useful tools that could be used for game development:
+# Tools For Game Dev
 
 - Game Engines
     - Unity https://unity.com/
@@ -58,7 +58,7 @@ This is a repo of some useful tools that could be used for game development:
     - FMOD https://www.fmod.com/
         - Sound effects engine for video games
     - Bfxr https://www.bfxr.net/
-        - Sound Effect generator with a more 8-Bit feel to it
+        - Sound Effect generator with a more 8-bit feel to it
     - Audacity https://www.audacityteam.org/
         - Allows for audio editing and recording.
           
@@ -69,3 +69,32 @@ This is a repo of some useful tools that could be used for game development:
 - Art
     - Piskel https://www.piskelapp.com/
         - Online pixel art creator
+
+# Game Dev Career Pathways
+
+Game Programmer: Game programmers develop software and engines for games and create prototypes for games.
+  - AI Programmer
+      - Focuses on the programming behind the movement and actions of Non-Player-Character behavior.
+      - Machine Language Engineer: Focused on designing and implementing machine learning applications.
+      - Prompt Engineer: Prompt engineers get generative AI applications to output a specific output.
+      - AI Developer:  An AI developer incorporates AI functionality into software applications.
+    
+  - Graphics Programmer:
+      - Graphics Programmers specialize in writing software that generates the visual elements of a game
+      - Front-end developer: Builds the front-end of websites and web applications, this is the part users see and interact with.
+      - Rendering Engineer: They implement rendering technology on multiple platforms and are involved in architectural design.
+
+  - UI Programmer
+      - UI programmers work within the UI/UX team of a game studio to implement the designs provided to them into the game engine
+      - UI Developer/Engineer: Builds designs for web, mobile, and desktop applications.
+    
+  - Tools Programmer
+      - Tools Programmers develop and maintain the software tools that empower the development team to work efficiently.
+      - 
+    
+  - Gameplay Programmer
+      -
+    
+  - Engine Programmer
+      -
+    
