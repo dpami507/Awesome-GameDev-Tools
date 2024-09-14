@@ -72,14 +72,15 @@ A bunch of awesome tools for game devs :)
 
 # Game Dev Career Pathways
 
-Game Programmer: Game programmers develop software and engines for games and create prototypes for games.
+### Game Programmer:
+Game programmers develop software and engines for games and create prototypes for games.
   - AI Programmer
       - Focuses on the programming behind the movement and actions of Non-Player-Character behavior.
       - Machine Language Engineer: Focused on designing and implementing machine learning applications.
       - Prompt Engineer: Prompt engineers get generative AI applications to output a specific output.
       - AI Developer:  An AI developer incorporates AI functionality into software applications.
     
-  - Graphics Programmer:
+  - Graphics Programmer
       - Graphics Programmers specialize in writing software that generates the visual elements of a game
       - Front-end developer: Builds the front-end of websites and web applications, this is the part users see and interact with.
       - Rendering Engineer: They implement rendering technology on multiple platforms and are involved in architectural design.
@@ -90,11 +91,37 @@ Game Programmer: Game programmers develop software and engines for games and cre
     
   - Tools Programmer
       - Tools Programmers develop and maintain the software tools that empower the development team to work efficiently.
-      - 
+      - Pipeline Tools Programmer: Focuses on creating and optimizing tools that streamline the development pipeline.
     
   - Gameplay Programmer
-      -
+      - Gameplay programmers write the code for the interactions that make a game fun to play.
+      - Gameplay Engineer: Similar to a gameplay programmer but may also involve broader engineering tasks.
     
   - Engine Programmer
-      -
+      - Develops/works on the engine the game runs on
+
+### Level Designer
+  - Creates the world the game takes place in
+  - Must create nice-looking environments while also considering Flow, Pace, and Skill so as to have a fun playing experience
+  - Especially in games with a high focus on narrative, making the narrative tie into the environment is important (The Last of Us couldn't take place in Candy Land :/)
+
+### Systems Designer
+  - Assembles many technologies/programs that need to be used to create the game.
+  - Identifies software and hardware that may be needed to create the game.
+  - Leads prototypes and Idetiftys where in the game AI might be needed
+
+### FX Artist
+  - Creates the Visual Effects to enhance the visual appeal of the game
+  - Uses real-world effects to get an idea of scale, shape, color and design when creating effects
+  - There are Gameplay effects that enhance the overall action of the game, (Spell casting effects, muzzle flash, etc.) and Environmental Effects which enhance the surroundings (Rain, Snow, etc.)
+
+### Gameplay Animator
+  - Creates the animations for the game, including player animations, enemy animations, object animations, etc.
+  - They can use, keyframes and set each bone individually or motion capture and physically act it out.
+  - Maintain large libraries to reuse animations, saving lots of time.
+
+### Game Artist
+  - Often a General animator and/or 3D modeler that creates 2D and 3D art for game. Using concept art and design briefs they can bring a game to life.
+  - They work on visual elements required to assemble a game. This includes characters, objects, textures, assets, environments, props, vehicles, weapons, etc.
+  - Can give a game a unique design and personality.
     
