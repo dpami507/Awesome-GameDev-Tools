@@ -18,39 +18,37 @@ A bunch of awesome tools for game devs :)
         - C++
     - Bullet https://github.com/bulletphysics/bullet3
         - Realtime collision detection and multi-physics simulation
-        - Can be used for VR, games, visual effects, robotics, machine learning
+        - Can be used for VR, games, visual effects, robotics, and machine learning
         - C++
         
 - Graphics Engine
-    - OGRE https://www.ogre3d.org/about/features
-        - Graphics rendering engine
-        - Used in games, simulators, educational software, interactive art, and scientific visualization.
+    - SFML https://www.sfml-dev.org/
+        - Provides a simple interface to the various components of a PC: System, window, graphics, audio, and network.
         - C++
-        
-- Input Handling
     - Allegro https://liballeg.org/
         - Provides low-level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL and Direct3D
         - Written in C, works with C++
     - SDL https://github.com/libsdl-org/SDL
         - Provides low-level access to audio, keyboard, mouse, joystick, and graphics hardware
-        - C++
+        - C++ 
     
 - Networking
-    - Facepunch.Steamworks https://github.com/Facepunch/Facepunch.Steamworks
-        - C# implementation for Steamworks
+    - Steamworks https://partner.steamgames.com/doc/sdk/api
+        - Valve's official API for developers working with Steam's servers and networking
+        - C++
+    - Steamworks.NET https://github.com/rlabrecque/Steamworks.NET
+        - C# implementation for Valve's Steamworks API
         - Used to access Steam info like Avatars, Servers, Friends, etc.
-    - GameNetworkingSockets https://github.com/ValveSoftware/GameNetworkingSockets
-        - C++
-        - A basic transport layer for games
-    - ENet https://github.com/lsalzman/enet
-        - Provides a relatively thin, simple, and robust network communication layer on top of UDP (User Datagram Protocol).
-        - C++
     - Mirror https://mirror-networking.com/
-        - Adds Easy networking to Unity.
+        - Adds easier implementation of networking to Unity.
+        - Designed around Unity's Monobehaviour
+    - FizzySteamworks https://github.com/Chykary/FizzySteamworks
+        - Brings together Steamworks.NET and Mirror
+        - C#
+    - Boost.ASIO
+        - Provides C++ barebones networking abilities with sockets
       
 - Terrain
-    - Gaea https://quadspinner.com/
-        - Terrain and Surface generation
     - blender https://www.blender.org/
         - 3D modeling software with the tools to create terrain
 
