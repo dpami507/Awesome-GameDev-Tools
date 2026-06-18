@@ -68,6 +68,10 @@ A bunch of awesome tools for game devs :)
     - Piskel https://www.piskelapp.com/
         - Online pixel art creator
 
+- UI Tools
+    - Roblox GUI Maker https://robloxguimaker.dev/
+        - Free AI-assisted Roblox Studio GUI planner for ScreenGui layouts, HUDs, menus, and Lua UI starter-code ideas.
+
 # Game Dev Career Pathways
 
 ### Game Programmer:
