@@ -30,7 +30,10 @@ A bunch of awesome tools for game devs :)
         - Written in C, works with C++
     - SDL https://github.com/libsdl-org/SDL
         - Provides low-level access to audio, keyboard, mouse, joystick, and graphics hardware
-        - C++ 
+        - C++
+    - OpenGL https://www.opengl.org/
+        - Provides a low-level access to the graphics hardware
+        - C++, GLSL 
     
 - Networking
     - Steamworks https://partner.steamgames.com/doc/sdk/api
