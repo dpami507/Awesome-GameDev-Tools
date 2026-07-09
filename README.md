@@ -126,3 +126,7 @@ Game programmers develop software and engines for games and create prototypes fo
   - They work on visual elements required to assemble a game. This includes characters, objects, textures, assets, environments, props, vehicles, weapons, etc.
   - Can give a game a unique design and personality.
     
+
+## Companion Resources (Fan-Maintained)
+
+- [Meccha Chameleon Atlas](https://mecchachameleon.art/) — Fan-maintained hide-spots reference, paint-match notes, and seeker counter-tips for the paint-based hide-and-seek title Meccha Chameleon. Unofficial, not affiliated with the developer.
